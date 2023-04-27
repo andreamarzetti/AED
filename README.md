@@ -1,4 +1,4 @@
-Algoritmos y Estructuras de Dati
+Algoritmos y Estructuras de Datos
 
 2023
 
