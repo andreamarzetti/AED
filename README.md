@@ -8,4 +8,4 @@ Andrea Noemi Marzetti
 
 K1051
 
-Compilador que uso visual code 2020
+Compilador que uso visual code 2020. std=c++20
